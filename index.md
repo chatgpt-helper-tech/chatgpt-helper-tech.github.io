@@ -77,8 +77,9 @@ ChatGPT 席卷全球，但对中国用户而言，从注册、升级到科学上
 
 1. 👉 [无法访问官网？先注册免费机场](https://w1.v2free.cc/auth/register?code=i0A3)
 2. 👉 [还没有账号？点击查看 ChatGPT 注册教程](https://chatgpt-helper-tech.github.io/chatgpt-register-guide/)
-3. 👉 [账号升级失败？查看 GPT Plus 升级攻略](https://chatgpt-helper-tech.github.io/chatgpt-plus-guide/)
-4. 👉 [长期使用建议？查看 VPN / 机场横评](https://chatgpt-helper-tech.github.io/network-access/)
+3. 👉 [不知道如何升级GPT Plus？查看 GPT Plus 升级攻略](https://chatgpt-helper-tech.github.io/chatgpt-plus-guide/)
+4. 👉 [想稳定安全科学上网？查看 VPN 推荐](https://chatgpt-helper-tech.github.io/network-access/)
+5. 👉 [高性价比科学上网？查看 机场 推荐](https://chatgpt-helper-tech.github.io/airport-access/)
 
 ---
 
