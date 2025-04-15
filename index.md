@@ -1,3 +1,4 @@
+![ChatGPT 中文助手封面图](./assets/banner.png)
 ---
 title: ChatGPT 中文用户导航 | 2025 最全注册 + 升级 + 科学上网指南
 description: ChatGPT 中文助手导航站，覆盖注册教程、Plus 升级、科学上网 VPN、机场推荐、AI 工具接入一站式解决方案。
