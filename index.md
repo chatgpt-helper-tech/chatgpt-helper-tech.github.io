@@ -23,7 +23,7 @@ ChatGPT 席卷全球，但对中国用户而言，从注册、升级到科学上
 
 解决方案：你可以先使用一个安全稳定的 **免费机场跳板**，临时访问外网：
 
-👉 [免费注册 V2free 机场（每日流量 · 即可访问 ChatGPT 官网）](https://w1.v2free.cc/auth/register?code=i0A3)
+👉 [注册免费科学上网 V2free（每日免费流量 · 即可访问 ChatGPT 官网）](https://w1.v2free.cc/auth/register?code=i0A3)
 
 > 无需付费 · 支持电脑 / 手机使用 · 注册即送节点访问权限  
 > 建议用于：首次注册、查看官网、访问 VPN 页面等
@@ -40,11 +40,11 @@ ChatGPT 席卷全球，但对中国用户而言，从注册、升级到科学上
 - 解决信用卡绑定问题：使用野卡虚拟卡（支付宝充值）
 - 解锁 GPT-4.5、网页搜索、图片生成等功能
 
-### 🔐 [VPN 推荐榜单（2025 年精选）](https://chatgpt-helper-tech.github.io/network-access/)
+### 🔐 [2025 VPN 推荐榜单](https://chatgpt-helper-tech.github.io/network-access/)
 - 含 ExpressVPN、Surfshark、NordVPN 横评
 - 真实连接成功率、速度、支持设备详细对比
 
-### ✈️ [机场推荐指南（含中文界面和性价比选择）](https://chatgpt-helper-tech.github.io/airport-access/)
+### ✈️ [2025 机场推荐指南（含中文界面和性价比选择）](https://chatgpt-helper-tech.github.io/airport-access/)
 - 适合轻量或进阶用户的科学上网方案
 - 精选 Lion、加速喵、FLYINGBIRD 等站点
 
