@@ -1,19 +1,37 @@
 ---
 title: 关于我们
-description: 了解 chatgpt-helper-tech 中文教程导航站的创建初衷与使命
+description: 认识 ChatGPT‑Helper‑Tech 的使命、理念与团队
+permalink: /about/
+last_modified_at: 2025-04-18
 ---
 
 # 关于我们
 
-欢迎访问 ChatGPT 中文助手导航站（chatgpt-helper-tech.github.io）！
+欢迎访问 **ChatGPT‑Helper‑Tech**！
 
-我们致力于为中文用户提供最实用、最清晰、最系统的 AI 工具使用教程，核心内容涵盖：
+我们是一支由资深 **Java 程序员 + AI 工具爱好者** 组成的小团队，长期关注：
 
-- ChatGPT 账号注册与升级
-- 科学上网工具配置（VPN、机场）
-- 虚拟信用卡推荐与使用
-- ChatGPT Plus 功能解锁与插件使用
+- ChatGPT、Midjourney 等生成式 AI 的注册与高效使用  
+- 科学上网（VPN、机场、虚拟卡）完整解决方案  
+- 海外 SaaS / 数字服务的开箱测评与省钱攻略  
 
-我们专注于帮助普通用户从 0 到 1 顺利使用 ChatGPT 和 AI 工具，为非技术用户搭建通往世界级 AI 服务的桥梁。
+我们的使命是 **降低工具门槛，帮助中文用户安全、高效、低成本地连接全球互联网与新兴 AI 服务**。
 
-本项目基于 GitHub Pages 搭建，完全开源透明，所有推荐均经过实测。
+## 站点特色
+
+1. **实测数据**  
+   > 每篇评测都有测速截图、地区 IP 兼容性与价格对比，不做“复制粘贴式软文”。
+
+2. **中立推荐**  
+   > 拒绝“一味恰饭”。我们只推荐实际使用体验良好、售后可追溯的服务。
+
+3. **持续更新**  
+   > VPN/AI 行业更新迅速，我们保证至少 **每月 2 篇** 深度文章，确保信息不过期。
+
+## 联系方式
+
+- 站长：**小唐**  
+- 邮箱：<tangwu095@gmail.com>  
+- GitHub：[@chatgpt‑helper‑tech](https://github.com/chatgpt-helper-tech)
+
+感谢你的信任与支持！如有合作或改进建议，随时来信交流。
