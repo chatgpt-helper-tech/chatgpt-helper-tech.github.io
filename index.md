@@ -85,3 +85,6 @@ ChatGPT 席卷全球，但对中国用户而言，从注册、升级到科学上
 📬 本项目由 [chatgpt-helper-tech](https://github.com/chatgpt-helper-tech) 维护，面向中文用户持续更新  
 📂 GitHub Pages 主站地址：[https://chatgpt-helper-tech.github.io](https://chatgpt-helper-tech.github.io)  
 ⭐ 如果你觉得本站有帮助，请点击 Star 或分享给有需要的朋友  
+---
+
+📌 [关于我们](/about) ｜ [隐私政策](/privacy-policy) ｜ [联盟免责声明](/affiliate-disclosure)
