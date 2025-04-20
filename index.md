@@ -2,6 +2,7 @@
 title: ChatGPT 助手导航站 | 注册 · 升级 · 科学上网 · 实测推荐
 description: 提供适合中国用户的 ChatGPT 使用全流程指南，包括注册、升级 ChatGPT Plus、科学上网方法、VPN/机场评测和实测推荐。
 ---
+Impact-Site-Verification: d62d6d65-4f30-4bdc-bd34-a8936a1bc406
 
 # 🤖 ChatGPT 中文助手导航站（适合中国用户 · 2025）
 
