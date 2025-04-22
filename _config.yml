@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 title: ChatGPT 中文助手导航站
 description: GPT 注册 / 升级 / VPN / 机场全攻略（适合中文用户）
-include:
-  - sitemap.xml
+plugins:
+  - jekyll-sitemap
