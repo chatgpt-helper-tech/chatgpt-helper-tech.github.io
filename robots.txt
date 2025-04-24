@@ -1,3 +1,4 @@
 # allow google
 User-agent: *
 Allow: /
+Sitemap: https://chatgpt-helper-tech.github.io/sitemap.xml
