@@ -19,8 +19,10 @@
 
 👉 [注册免费科学上网 V2free（每日免费流量 · 即可访问 ChatGPT 官网）](https://w1.v2free.cc/auth/register?code=i0A3)
 
-> 无需付费 · 支持电脑 / 手机使用 · 注册即送节点访问权限  
-> 建议用于：首次注册、查看官网、访问 VPN 页面等,当然也可以长期使用
+- 此机场作者已使用了2年,可免费使用,可购买套餐,便宜稳定
+- 支持 Clash、V2rayN 导入
+- 每日可以领取免费流量
+- 可用于访问 ChatGPT、YouTube、GitHub、VPN 官网等
 
 ---
 
