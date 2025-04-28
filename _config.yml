@@ -4,4 +4,5 @@ description: 提供适合中国用户的 ChatGPT 使用全流程指南，包括�
 url: "https://chatgpt-helper-tech.github.io"
 plugins:
   - jekyll-seo-tag
-
+github:
+  is_project_page: true
