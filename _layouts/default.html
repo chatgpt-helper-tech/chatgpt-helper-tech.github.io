@@ -5,7 +5,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  {% seo %}
+  <!-- 手动写title -->
+    <title>{{ page.title | default: site.title }}</title>
+    
+    <!-- 手动写meta description -->
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    
+    <!-- 重要！禁止seo-tag重复生成title -->
+    {% seo title=false %}
 
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   <!-- Google tag (gtag.js) -->
