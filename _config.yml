@@ -3,6 +3,5 @@ title: ChatGPT 中文助手导航站
 description: 2025年 ChatGPT 注册 | ChatGPT Plus升级 | VPN推荐 | 机场推荐,适合需要使用ChatGPT / Netflix / Youtube / Google 的用户
 url: "https://chatgpt-helper-tech.github.io"
 plugins:
-  - jekyll-sitemap
   - jekyll-seo-tag
 
