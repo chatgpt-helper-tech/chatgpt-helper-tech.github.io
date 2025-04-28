@@ -1,5 +1,5 @@
 ---
-title: ChatGPT 助手导航站 | 注册 · 升级 · 科学上网 · 实测推荐
+title: ChatGPT 助手导航站 | ChatGPT 注册 · ChatGPT 升级 | 科学上网 | VPN推荐 | 机场推荐
 description: 提供适合中国用户的 ChatGPT 使用全流程指南，包括注册、升级 ChatGPT Plus、科学上网方法、VPN/机场评测和实测推荐。
 ---
 
