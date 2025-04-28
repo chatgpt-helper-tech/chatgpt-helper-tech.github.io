@@ -5,5 +5,4 @@ url: "https://chatgpt-helper-tech.github.io"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-google_analytics: G-LC9J5G7XX4
 
