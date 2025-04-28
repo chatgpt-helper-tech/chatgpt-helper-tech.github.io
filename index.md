@@ -1,5 +1,4 @@
 ---
-layout: default
 title: ChatGPT 助手导航站 | ChatGPT 注册 · ChatGPT 升级 | 科学上网 | VPN推荐 | 机场推荐
 description: 提供适合中国用户的 ChatGPT 使用全流程指南，包括注册、升级 ChatGPT Plus、科学上网方法、VPN/机场评测和实测推荐。
 ---
@@ -18,7 +17,7 @@ description: 提供适合中国用户的 ChatGPT 使用全流程指南，包括�
 
 ## 🚀 快速访问 ChatGPT 官网的方法（国内用户）
 
-国内用户常见的第一个问题就是：**打不开 https://chat.openai.com**
+国内用户常见的第一个问题就是：**打不开 [https://chat.openai.com](https://chat.openai.com)**
 
 解决方案：你可以先使用一个安全稳定的 **免费机场跳板**，临时访问外网：
 
