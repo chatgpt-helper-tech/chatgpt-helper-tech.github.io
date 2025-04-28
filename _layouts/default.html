@@ -8,9 +8,6 @@
   <!-- 手动写title -->
     <title>{{ page.title | default: site.title }}</title>
     
-    <!-- 手动写meta description -->
-    <meta name="description" content="{{ page.description | default: site.description }}">
-    
     <!-- 重要！禁止seo-tag重复生成title -->
     {% seo title=false %}
 
