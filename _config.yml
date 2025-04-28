@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 title: ChatGPT 中文助手导航站
 description: 2025年 ChatGPT 注册 | ChatGPT Plus升级 | VPN推荐 | 机场推荐,适合需要使用ChatGPT / Netflix / Youtube / Google 的用户
+google_analytics: G-LC9J5G7XX4
 url: "https://chatgpt-helper-tech.github.io"
 plugins:
   - jekyll-seo-tag
