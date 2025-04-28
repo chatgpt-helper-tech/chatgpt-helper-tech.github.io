@@ -1,46 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- 主站首页 -->
   <url>
     <loc>https://chatgpt-helper-tech.github.io/</loc>
+    <lastmod>2025-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
+  <!-- 子项目首页 -->
   <url>
     <loc>https://chatgpt-helper-tech.github.io/chatgpt-register-guide/</loc>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-04-28</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://chatgpt-helper-tech.github.io/chatgpt-plus-guide/</loc>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-04-28</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://chatgpt-helper-tech.github.io/network-access/</loc>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-04-28</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://chatgpt-helper-tech.github.io/airport-access/</loc>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-04-28</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
+  <!-- 主站其他页面 -->
   <url>
     <loc>https://chatgpt-helper-tech.github.io/about</loc>
+    <lastmod>2025-04-27</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
   </url>
-  
+
   <url>
     <loc>https://chatgpt-helper-tech.github.io/privacy-policy</loc>
+    <lastmod>2025-04-27</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
   </url>
 
   <url>
     <loc>https://chatgpt-helper-tech.github.io/affiliate-disclosure</loc>
+    <lastmod>2025-04-27</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
   </url>
+
 </urlset>
