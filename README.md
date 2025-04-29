@@ -28,19 +28,19 @@
 
 ## 🧭 教程模块导航
 
-### 📝 [ChatGPT 注册教程（免手机号）](https://chatgpt-helper-tech.github.io/chatgpt-register-guide/)
+### 📝 [ChatGPT 注册教程（免手机号）](https://gptvpnhelper.com/chatgpt-register-guide/)
 - 使用 Gmail/Outlook 快速注册 OpenAI 账号
 - 适合中国用户的图文教程,
 
-### 💳 [ChatGPT Plus 升级攻略](https://chatgpt-helper-tech.github.io/chatgpt-plus-guide/)
+### 💳 [ChatGPT Plus 升级攻略](https://gptvpnhelper.com/chatgpt-plus-guide/)
 - 解决信用卡绑定问题：使用野卡虚拟卡（支付宝充值）
 - 解锁 GPT-4.5、最强推理模型o3,网页搜索、图片生成等功能,在写作和编程上面当你的全能助手
 
-### 🔐 [2025 VPN 推荐榜单](https://chatgpt-helper-tech.github.io/network-access/)
+### 🔐 [2025 VPN 推荐榜单](https://gptvpnhelper.com/network-access/)
 - 含 ExpressVPN、Surfshark、NordVPN 横评
 - 真实连接成功率、速度、支持设备详细对比
 
-### ✈️ [2025 机场推荐指南](https://chatgpt-helper-tech.github.io/airport-access/)
+### ✈️ [2025 机场推荐指南](https://gptvpnhelper.com/airport-access/)
 - 适合轻量或进阶用户的科学上网方案
 - 精选多个机场, 良心推荐,包含高端高速以及高性价比大流量方案
 
@@ -71,15 +71,15 @@
 ## 📚 推荐从以下路径开始：
 
 1. 👉 [无法访问官网？先注册免费机场](https://w1.v2free.cc/auth/register?code=i0A3)
-2. 👉 [还没有账号？点击查看 ChatGPT 注册教程](https://chatgpt-helper-tech.github.io/chatgpt-register-guide/)
-3. 👉 [不知道如何升级GPT Plus？查看 GPT Plus 升级攻略](https://chatgpt-helper-tech.github.io/chatgpt-plus-guide/)
-4. 👉 [想稳定安全科学上网？查看 VPN 推荐](https://chatgpt-helper-tech.github.io/network-access/)
-5. 👉 [高性价比科学上网？查看 机场 推荐](https://chatgpt-helper-tech.github.io/airport-access/)
+2. 👉 [还没有账号？点击查看 ChatGPT 注册教程](https://gptvpnhelper.com/chatgpt-register-guide/)
+3. 👉 [不知道如何升级GPT Plus？查看 GPT Plus 升级攻略](https://gptvpnhelper.com/chatgpt-plus-guide/)
+4. 👉 [想稳定安全科学上网？查看 VPN 推荐](https://gptvpnhelper.com/network-access/)
+5. 👉 [高性价比科学上网？查看 机场 推荐](https://gptvpnhelper.com/airport-access/)
 
 ---
 
 📬 本项目由 [chatgpt-helper-tech](https://github.com/chatgpt-helper-tech) 维护，面向中文用户持续更新  
-📂 GitHub Pages 主站地址：[https://chatgpt-helper-tech.github.io](https://chatgpt-helper-tech.github.io)  
+📂 GitHub Pages 主站地址：[https://gptvpnhelper.com](https://gptvpnhelper.com)  
 ⭐ 如果你觉得本站有帮助，请点击 Star 或分享给有需要的朋友  
 ---
 
