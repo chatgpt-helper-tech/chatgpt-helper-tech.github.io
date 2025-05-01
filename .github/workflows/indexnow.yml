@@ -23,7 +23,7 @@ jobs:
           KEY="7fcb984b977c41acbe5d4ffe78ed0308"
 
           for URL in "${URLs[@]}"; do
-            curl -s "https://api.indexnow.org/indexnow?url=$URL&key=$KEY" \
+            curl -i "https://api.indexnow.org/indexnow?url=$URL&key=$KEY" \
               && echo "Submitted $URL" \
               || echo "Failed to submit $URL"
           done
