@@ -30,8 +30,6 @@ last_modified_at: 2025-04-18
 
 ## 联系方式
 
-- 站长：**小唐**  
-- 邮箱：<tangwu095@gmail.com>  
 - GitHub：[@chatgpt‑helper‑tech](https://github.com/chatgpt-helper-tech)
 
 感谢你的信任与支持！如有合作或改进建议，随时来信交流。
