@@ -1,6 +1,6 @@
 ---
 title: ChatGPT 助手导航站 | ChatGPT Plus | VPN推荐 | 机场推荐
-description: 提供2025年最新适合中国用户的 ChatGPT 使用全流程指南，包括注册、升级 ChatGPT Plus、科学上网方法、VPN推荐/机场推荐和测评。
+description: 2025 年最全 ChatGPT 中文助手导航：提供注册教程、ChatGPT Plus 升级、稳定 VPN 推荐、免费机场节点、虚拟卡使用指南，一站解决中国用户科学上网、访问 Google、YouTube、Netflix 的难题。快速、简单、安全，轻松畅游全球互联网
 ---
 
 ## 🤖 ChatGPT 中文助手导航站（适合中国用户 · 2025）
