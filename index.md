@@ -5,7 +5,7 @@ description: 2025 年最全 ChatGPT 中文助手导航：提供注册教程、Ch
 
 ## 📘 本项目是专为中文用户设计的 ChatGPT 中文使用教程与科学上网导航站，聚焦于 2025 年在中国可用的注册、升级、翻墙、访问和使用全流程。  
 
-我们整理并实测了适合中国用户的 ChatGPT Plus 注册方式、科学上网方法（VPN/机场推荐）、iOS/安卓/桌面端使用技巧，  
+欢迎来到**ChatGPT 中文助手站**,我们整理并实测了适合中国用户的 ChatGPT Plus 注册方式、科学上网方法（VPN/机场推荐）、iOS/安卓/桌面端使用技巧，  
 帮助你解决“打不开官网 / 无法注册 / 无法付费 / 无法访问”等常见问题。  
 
 内容涵盖：  
@@ -74,11 +74,11 @@ ChatGPT 只是AI的起点，后面还有 Midjourney 图像生成、Claude 文案
 - 支持 Clash、V2rayN 导入
 - 每日免费流量
 - 可用于访问 ChatGPT、YouTube、GitHub、VPN 官网等
-- 若想长期稳定翻墙建议前往 机场/VPN 推荐教程
+- 若免费节点无法解锁ChatGPT,想长期稳定翻墙建议前往 机场/VPN 推荐使用教程
 
 ---
 
-## 🧭 教程模块导航
+## 🧭 **ChatGPT 中文助手站** 教程模块导航
 
 以下是我们为中国大陆用户量身打造的 AI 出海核心教程合集，覆盖从账号注册、会员升级、科学上网到虚拟信用卡配置的**全流程关键环节**。每一篇教程都经过亲测打磨，确保**0基础也能快速上手，高效执行不踩坑**！
 
@@ -211,7 +211,7 @@ ChatGPT 只是AI的起点，后面还有 Midjourney 图像生成、Claude 文案
 2. 👉 [📝 还没有 ChatGPT 账号？点击查看注册教程（零门槛、免手机号）](https://gptvpnhelper.com/chatgpt-register-guide/)  
    - 图文教程，全流程截图，**适配中国网络环境**，10分钟内完成 OpenAI 账号注册。
 
-3. 👉 [💳 想升级 GPT Plus？看这里，解决国内支付难题](https://gptvpnhelper.com/chatgpt-plus-guide/)  
+3. 👉 [💳 想升级 ChatGPT Plus？看这里，解决国内支付难题](https://gptvpnhelper.com/chatgpt-plus-guide/)  
    - 使用虚拟卡 + 支付宝，**无海外信用卡也能成功升级 GPT-4o / o3 模型**，真正解锁高级AI能力。
 
 4. 👉 [🔐 想长期稳定科学上网？优先查看 VPN 推荐榜单](https://gptvpnhelper.com/network-access/)  
@@ -230,7 +230,7 @@ ChatGPT 只是AI的起点，后面还有 Midjourney 图像生成、Claude 文案
 ---
 
 📬 本项目由 [chatgpt-helper-tech 团队](https://github.com/chatgpt-helper-tech) 维护，专为中文用户打造，持续更新最实用的 ChatGPT 出海资源与工具教程。  
-📂 官网地址：👉 [https://gptvpnhelper.com](https://gptvpnhelper.com)（建议收藏，持续回访）  
+📂 **ChatGPT 中文助手站**官网地址：👉 [https://gptvpnhelper.com](https://gptvpnhelper.com)（建议收藏，持续回访）  
 📌 我们坚持实测验证、中文优化、每一步都能复现，旨在帮你**绕过障碍、直达 AI 世界**。
 
 ⭐ 如果你觉得本站有帮助，请帮我们点个 Star ⭐  
