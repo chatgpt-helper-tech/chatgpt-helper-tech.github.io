@@ -47,21 +47,21 @@
 
   <!-- 主站其他页面 -->
   <url>
-    <loc>https://gptvpnhelper.com/about</loc>
+    <loc>https://gptvpnhelper.com/about/</loc>
     <lastmod>2025-04-27</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
 
   <url>
-    <loc>https://gptvpnhelper.com/privacy-policy</loc>
+    <loc>https://gptvpnhelper.com/privacy-policy/</loc>
     <lastmod>2025-04-27</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
 
   <url>
-    <loc>https://gptvpnhelper.com/affiliate-disclosure</loc>
+    <loc>https://gptvpnhelper.com/affiliate-disclosure/</loc>
     <lastmod>2025-04-27</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
