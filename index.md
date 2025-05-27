@@ -110,6 +110,9 @@ ChatGPT 只是AI的起点，后面还有 Midjourney 图像生成、Claude 文案
 - 收录节点质量稳定、无脑可用、按量计费/包月都有，**适合中国大陆用户科学上网新手与进阶用户**
 - ✅ 明确标注支持 ChatGPT 访问 / Netflix 解锁 / WireGuard 协议 / 多端兼容，**拒绝踩坑，节省每一分时间与流量**
 
+### [ChatGPT最新使用教程指南](https://gptvpnhelper.com/guide/)
+2025 ChatGPT 使用教程和最佳实践，涵盖注册设置、Prompt 模板、Explorer GPT、DALL·E/Sora 使用技巧，适合新手与进阶者
+
 
 ---
 
@@ -219,6 +222,9 @@ ChatGPT 只是AI的起点，后面还有 Midjourney 图像生成、Claude 文案
 
 5. 👉 [✈️ 更高性价比科学上网方案？查看机场推荐指南](https://gptvpnhelper.com/airport-access/)  
    - 精选高质量机场服务，**按月或按流量计费，适合日常 AI 使用 / Netflix/Disney+/Hbo Max等流媒体解锁 / 远程办公**。
+     
+6. 👉 [📘 ChatGPT 中文使用指南](https://gptvpnhelper.com/guide/)
+   - 由 ChatGPT 中文助手导航站维护，**涵盖 ChatGPT 注册、Plus 升级、Prompt 模板、Explorer GPT、DALL·E/Sora 使用技巧等内容，适合新手与进阶者，帮助你全面掌握 ChatGPT 的使用方法。**
 
 ---
 
