@@ -4,7 +4,7 @@
   <!-- 主站首页 -->
   <url>
     <loc>https://gptvpnhelper.com/</loc>
-    <lastmod>2025-05-15</lastmod>
+    <lastmod>2025-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -12,35 +12,42 @@
   <!-- 子项目首页 -->
   <url>
     <loc>https://gptvpnhelper.com/chatgpt-register-guide/</loc>
-    <lastmod>2025-05-15</lastmod>
+    <lastmod>2025-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://gptvpnhelper.com/chatgpt-plus-guide/</loc>
-    <lastmod>2025-05-15</lastmod>
+    <lastmod>2025-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://gptvpnhelper.com/network-access/</loc>
-    <lastmod>2025-05-16</lastmod>
+    <lastmod>2025-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://gptvpnhelper.com/network-access/bestuse/</loc>
-    <lastmod>2025-05-16</lastmod>
+    <lastmod>2025-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://gptvpnhelper.com/airport-access/</loc>
-    <lastmod>2025-05-15</lastmod>
+    <lastmod>2025-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://gptvpnhelper.com/guide/</loc>
+    <lastmod>2025-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
