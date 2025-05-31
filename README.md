@@ -222,8 +222,8 @@ ChatGPT 只是AI的起点，后面还有 Midjourney 图像生成、Claude 文案
 
 我们为你设计了一条最优上手路径，按顺序操作，不走弯路，快速拥有属于你自己的 ChatGPT + 科学上网工具包：
 
-1. 👉 [🚀 无法访问 ChatGPT 官网？先注册免费机场（V2free 跳板）](https://w1.v2free.cc/auth/register?code=i0A3)  
-   - 免费注册，无需邀请码，**立刻获取基础翻墙能力**，帮助你正常访问 openai.com 官网。
+1. 👉 [🚀 无法访问 ChatGPT 官网？先注册限时免费机场（百变小樱）](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=FFHk)  
+   - 免费注册，**立刻获取基础翻墙能力**，帮助你正常访问 openai.com 官网。
 
 2. 👉 [📝 还没有 ChatGPT 账号？点击查看注册教程（零门槛、免手机号）]https://gptvpnhelper.com/chatgpt-register-guide)  
    - 图文教程，全流程截图，**适配中国网络环境**，10分钟内完成 OpenAI 账号注册。
