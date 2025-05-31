@@ -58,7 +58,7 @@ ChatGPT 只是AI的起点，后面还有 Midjourney 图像生成、Claude 文案
 
 ---
 
-## 🚀 快速访问 ChatGPT 官网的方法（国内用户）
+## 🚀 快速访问 ChatGPT 官网的方法（百变小樱 机场）
 
 国内用户常见的第一个问题就是：**打不开 [https://chat.openai.com](https://chat.openai.com)**
 
